@@ -1,0 +1,9 @@
+Prog1;5;Jaime
+Prog2;3;Pedro 
+Prog3;3;Eusebio 
+Fsisca1;5;Rafael  
+Mecanica cuantica;3;Santaolalla  
+Mecanica de fluidos;6;Karin 
+Quimica1;4;Karin
+Elementos;3;Jaime
+Compuestos;5;Pedro

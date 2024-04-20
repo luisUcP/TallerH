@@ -1,0 +1,6 @@
+Jaime;333-342;jaime@ucaldas.edu.co
+Pedro;124-244;Pedro@ucaldas.edu.co
+Eusebio;123-244;Eusebio@ucaldas.edu.co
+Rafael;333-321;Rafael@ucaldas.edu.co
+Santaolalla;213-244;Santaolalla@ucaldas.edu.co
+Karin;123-234;Karin@ucaldas.edu.co
